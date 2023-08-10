@@ -1,0 +1,15 @@
+C:\Users\MyPC\source\repos\CustomStack\CustomStack\bin\Debug\net7.0\CustomStack.exe
+C:\Users\MyPC\source\repos\CustomStack\CustomStack\bin\Debug\net7.0\CustomStack.deps.json
+C:\Users\MyPC\source\repos\CustomStack\CustomStack\bin\Debug\net7.0\CustomStack.runtimeconfig.json
+C:\Users\MyPC\source\repos\CustomStack\CustomStack\bin\Debug\net7.0\CustomStack.dll
+C:\Users\MyPC\source\repos\CustomStack\CustomStack\bin\Debug\net7.0\CustomStack.pdb
+C:\Users\MyPC\source\repos\CustomStack\CustomStack\obj\Debug\net7.0\CustomStack.csproj.AssemblyReference.cache
+C:\Users\MyPC\source\repos\CustomStack\CustomStack\obj\Debug\net7.0\CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyPC\source\repos\CustomStack\CustomStack\obj\Debug\net7.0\CustomStack.AssemblyInfoInputs.cache
+C:\Users\MyPC\source\repos\CustomStack\CustomStack\obj\Debug\net7.0\CustomStack.AssemblyInfo.cs
+C:\Users\MyPC\source\repos\CustomStack\CustomStack\obj\Debug\net7.0\CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\CustomStack\CustomStack\obj\Debug\net7.0\CustomStack.dll
+C:\Users\MyPC\source\repos\CustomStack\CustomStack\obj\Debug\net7.0\refint\CustomStack.dll
+C:\Users\MyPC\source\repos\CustomStack\CustomStack\obj\Debug\net7.0\CustomStack.pdb
+C:\Users\MyPC\source\repos\CustomStack\CustomStack\obj\Debug\net7.0\CustomStack.genruntimeconfig.cache
+C:\Users\MyPC\source\repos\CustomStack\CustomStack\obj\Debug\net7.0\ref\CustomStack.dll
